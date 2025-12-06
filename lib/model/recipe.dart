@@ -1,6 +1,6 @@
 class Recipe {
-  String imgLabel; // Label for the image
-  String imageUrl; // URL of the image
+  String imgLabel;
+  String imageUrl;
 
   Recipe(this.imageUrl, this.imgLabel);
   static List<Recipe> samples = 
