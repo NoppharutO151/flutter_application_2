@@ -20,7 +20,7 @@ class RecipeApp extends StatelessWidget {
         ),
         colorScheme: .fromSeed(seedColor: Colors.deepPurple),
       ),
-      home: const MyHomePage(title: 'Lies Of P'),
+      home: const MyHomePage(title: 'Uniqlo'),
     );
   }
 }

@@ -6,21 +6,21 @@ class Recipe {
   static List<Recipe> samples = 
   [
 
-    Recipe('assets/images/images01.webp', 'Pinocchio'),
-    Recipe('assets/images/images02.webp', 'Sophia Monad'),
-    Recipe('assets/images/images03.webp', 'Lea Florence Monad'),
-    Recipe('assets/images/images04.webp','Black Rabbit Brotherhood'),
-    Recipe('assets/images/images05.webp', 'Eldest of The Black Rabbit Brotherhood'),
-    Recipe('assets/images/images06.webp', 'Antonia Cerasani'),
-    Recipe('assets/images/images07.webp', 'Belle'),
-    Recipe('assets/images/images08.webp', 'Black Cat'),
-    Recipe('assets/images/images09.webp', 'Laxasia The Complete'),
-    Recipe('assets/images/images10.webp', 'Simon Manus'),
-    Recipe('assets/images/images11.webp', 'Champion Victor'),
-    Recipe('assets/images/images12.webp', 'Fallen Archbishop Andreus'),
-    Recipe('assets/images/images13.webp', 'Giuseppe Geppetto'),
-    Recipe('assets/images/images14.webp', 'King of Riddles, Arlecchino'),
-    Recipe('assets/images/images15.webp', 'Dorothy'),
+    Recipe('assets/images/001.jpg', 'Zip Up Short Jacket'),
+    Recipe('assets/images/002.jpg', 'Wide Fit Cargo Pants'),
+    Recipe('assets/images/003.jpg', 'Lea Florence Monad'),
+    Recipe('assets/images/004.jpg','Peanuts UT'),
+    Recipe('assets/images/005.jpg', 'Premium Linen Shirt'),
+    Recipe('assets/images/006.jpg', 'Pointelle Crew Neck Sweater'),
+    Recipe('assets/images/007.jpg', 'Linen Blend Tiered Dress'),
+    Recipe('assets/images/008.jpg', 'Peanut UT'),
+    Recipe('assets/images/009.jpg', 'Peanut UT'),
+    Recipe('assets/images/010.jpg', 'AIRism Cotton Striped Crew Neck T-Shirt'),
+    Recipe('assets/images/011.jpg', 'UV Protection Seamless Arm Cover'),
+    Recipe('assets/images/012.jpg', 'AIRism UV Protection Full-Zip Hoodie'),
+    Recipe('assets/images/013.jpg', 'Protecable UV Protection Parka'),
+    Recipe('assets/images/014.jpg', 'UV Protection Cap'),
+    Recipe('assets/images/015.jpg', 'Mofusand UT'),
   ];
 
  }
